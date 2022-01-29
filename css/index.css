@@ -1,0 +1,24 @@
+.parrafo{
+    color: blue;
+    background-color: black;
+    border-radius: 10%;
+    font-family: cursive;
+    
+}
+
+.nombre{
+    color:black;
+    font-family: cursive;
+    font-size: 50px;
+    
+}
+
+.datos{
+    font-size: 30px;
+}
+
+body{
+    background: url(vector-blue.jpg);
+    
+    background-attachment: fixed;
+}
