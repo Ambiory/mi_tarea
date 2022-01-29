@@ -1,3 +1,3 @@
 Esta es la tarea # de Ambiory valdez:
 
-![Mi captura de pantalla](caputa_tarea1.PNG)
+![Mi captura de pantalla](captura_tarea1.PNG)
